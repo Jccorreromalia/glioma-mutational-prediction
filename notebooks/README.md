@@ -1,1 +1,1 @@
-Jupyter notebooks used in the project.
+Jupyter notebook used in the project.
